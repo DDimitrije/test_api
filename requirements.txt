@@ -1,3 +1,5 @@
+pip
+requests
 Flask-JWT-Extended
 Flask-Smorest
 Flask-SQLAlchemy
@@ -7,4 +9,4 @@ python-dotenv
 gunicorn
 Flask-Migrate
 gunicorn
-psycopq2
+psycopg2==2.9.1
